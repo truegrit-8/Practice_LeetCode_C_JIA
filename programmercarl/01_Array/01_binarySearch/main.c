@@ -19,7 +19,7 @@ int search(int *nums, int numsSize, int target) {
             right = mid - 1;                /* 右指针 - 1位  */
         }
     }
-    return -1;
+    return -1;      /* test */
 }
 
 int main() {
