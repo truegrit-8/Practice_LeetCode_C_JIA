@@ -1,5 +1,5 @@
 {
-    "C_Cpp.default.compilerPath": "D:/mingw64/bin/gcc.exe",
+    "C_Cpp.default.compilerPath": "D:/Program Files/mingw64/bin/gcc.exe",
     "ros.distro": "noetic",
     "C_Cpp.autocomplete": "Disabled",
     "C_Cpp.intelliSenseEngine": "Disabled",
